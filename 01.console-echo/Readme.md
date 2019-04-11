@@ -1,3 +1,6 @@
+Based on 
+https://github.com/Microsoft/BotBuilder-Samples/tree/master/samples/javascript_nodejs/01.console-echo
+
 # console-echo sample
 Bot Framework v4 console bot sample
 
@@ -27,9 +30,6 @@ This bot has been created using [Microsoft Bot Framework][1], it shows how to cr
     ```bash
     npm start
     ```
-Based on 
-https://github.com/Microsoft/BotBuilder-Samples/tree/master/samples/javascript_nodejs/01.console-echo
-
 
 # Testing the bot
 After running `npm start`, the bot presents a prompt directly in the console window.
