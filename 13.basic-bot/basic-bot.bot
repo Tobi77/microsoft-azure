@@ -1,0 +1,25 @@
+{
+    "name": "BasicBot",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "id": "1",
+            "name": "development",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3978/api/messages"
+        },
+        {
+            "type": "luis",
+            "name": "luisService-13",
+            "appId": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+            "authoringKey": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+            "version": "0.1",
+            "region": "westus",
+            "id": "34"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0"
+}
